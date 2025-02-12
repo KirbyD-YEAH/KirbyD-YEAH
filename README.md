@@ -1,4 +1,4 @@
-# Hi, I'm [Kirby Dunker] 👋
+# Hi, I'm Kirby Dunker 👋
 
 Welcome to my GitHub profile! I'm a passionate college student who relies on GitHub heavily for doing assignments in my coding classes. While I'm not super advanced with programming and coding, I'm still up for the challenge and do my best to complete it. Here's a little bit more about me:
 
