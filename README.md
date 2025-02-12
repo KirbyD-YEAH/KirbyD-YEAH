@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm [Kirby Dunker] 👋
 
-<!--
-**KirbyD-YEAH/KirbyD-YEAH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a passionate college student who relies on GitHub heavily for doing assignments in my coding classes. While I'm not super advanced with programming and coding, I'm still up for the challenge and do my best to complete it. Here's a little bit more about me:
 
-Here are some ideas to get you started:
+## 🔧 Technologies & Tools
+- **Languages:** Java & C++
+- **Databases:** MySQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 I’m currently studying...
+- Computer Science at Wayne State College in Wayne, America
+
+## 📌 Personal Repositories
+Here are some of the repositories I've made:
+
+- **[MathTutorV6](https://github.com/KirbyD-YEAH/MathTutorV6)**: This was a series of assignments throughout the semester of my C++ class. It asks the user questions and tells them if they're correct or not.                                                                         The user may also save their progress if they'd like to.
+- **[NebraskaCounties](https://github.com/KirbyD-YEAH/NebraskaCounties)**: This project contains a program that allows the user to enter a Nebraska county or name and it will return the number for that county or                                                                               the county for that number.
+
+## 📫 How to reach me:
+- **Facebook**: [Kirby Dunker](https://www.facebook.com/kirby.dunker)
+- **X**: [@Kirby_Dunk05](https://x.com/Kirby_Dunk05)
+- **Instagram**: [dunkerbret](https://www.instagram.com/dunkerbret/)
+
+## 🎯 Fun fact:
+- I enjoy playing the piano, hanging out with my friends, playing Guitar Hero, and keeping up with severe weather.
