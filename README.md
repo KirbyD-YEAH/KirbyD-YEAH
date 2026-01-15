@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm a passionate college student who relies on Git
 - **Databases:** MySQL
 
 ## 🌱 I’m currently studying...
-- Computer Science at Wayne State College in Wayne, America
+- Computer Information Systems in Networking & Cybersecurity at Wayne State College in Wayne, America
 
 ## 📌 Personal Repositories
 Here are some of the repositories I've made:
